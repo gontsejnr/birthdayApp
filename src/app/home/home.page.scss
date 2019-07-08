@@ -1,0 +1,20 @@
+.background{
+  --background: url("/assets/images/bday.jpeg") 0 0/100% 100% no-repeat;
+}
+
+.no-scroll .scroll-content{
+    overflow: hidden;
+}
+.top{
+    text-align: left;
+    color: white;
+    text-shadow: 3px 2px red;
+}
+.bottom{
+    color: white;
+    right: 0;
+    bottom: 10%;
+    position: fixed;
+    text-shadow: 3px 2px red;
+    
+}
